@@ -1,3 +1,5 @@
+# use [this one](https://github.com/ExtReMLapin/pyarcade) instead 
+
 # arcadedb-python-driver
 Python driver for [ArcadeDB](https://arcadedb.com)
 
